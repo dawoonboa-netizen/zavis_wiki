@@ -118,3 +118,9 @@ _세션: 2026-05-07T11-32_
 - PayPal 매출 분석을 위해 Client ID와 Secret을 입력해야 한다.
 - 외부 연결 기능을 사용하여 PayPal 데이터를 가져온다.
 _세션: 2026-05-12T12-13_
+
+## [2026-05-12] 현빈아, 이번 달 PayPal 매출 실데이터 가져와서 분석하고 다음 액션 1개 추천해줘.
+- PayPal 매출 분석을 위해 Client ID 및 Secret을 입력한다.
+- 외부 연결을 위해 'Connect AI: 외부 연결' 명령을 사용한다.
+- PayPal Developer Dashboard에서 Client ID/Secret을 복사하여 입력한다.
+_세션: 2026-05-12T12-13_
