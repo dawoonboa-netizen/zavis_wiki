@@ -1,0 +1,55 @@
+{
+  "tasks": [
+    {
+      "id": "20260514223429-xrfm",
+      "title": "**회의 소집:** 위 로드맵을 공유하고 각 단계의 담당자 지정 및 리소스 배분 회의를 즉시 소집한다.",
+      "description": "자동 등록 (영숙 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "secretary"
+      ],
+      "createdAt": "2026-05-14T22:34:29.087Z",
+      "status": "done",
+      "sessionDir": "2026-05-14T22-31",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-05-14T22-31/_report.md\n- 영숙: 회사 목표, 각 에이전트의 개인 목표, 최근 의사결정, 메모리를 검토하여 현재 가장 가치 있는 단일 작업 1개를 결정하고, 이를 실행 계획으로 \n\nCEO 종합 요점: 📱 **메시지 요약 및 분석:**\n사용자는 현재 상황을 종합적으로 판단하여, 가장 시급하고 가치 있는 단 하나의 핵심 과제(Single Most Important Task)를 결정하고, 이를 실행할 구체적인 계획(Action Plan)을 수립해 줄 것을 요청하고 있습니다.\n\n**핵심 목표:**\n1.  **최우선 과제 선정:** 현재 모든 정보를 종합하여 ",
+      "completedAt": "2026-05-14T22:34:29.123Z"
+    },
+    {
+      "id": "20260514223429-lxgq",
+      "title": "**우선순위 재조정:** 이 MVP 검증 로드맵이 최우선순위가 되도록 모든 태스크보드와 일정을 재배치한다.",
+      "description": "자동 등록 (영숙 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "secretary"
+      ],
+      "createdAt": "2026-05-14T22:34:29.099Z",
+      "status": "done",
+      "sessionDir": "2026-05-14T22-31",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-05-14T22-31/_report.md\n- 영숙: 회사 목표, 각 에이전트의 개인 목표, 최근 의사결정, 메모리를 검토하여 현재 가장 가치 있는 단일 작업 1개를 결정하고, 이를 실행 계획으로 \n\nCEO 종합 요점: 📱 **메시지 요약 및 분석:**\n사용자는 현재 상황을 종합적으로 판단하여, 가장 시급하고 가치 있는 단 하나의 핵심 과제(Single Most Important Task)를 결정하고, 이를 실행할 구체적인 계획(Action Plan)을 수립해 줄 것을 요청하고 있습니다.\n\n**핵심 목표:**\n1.  **최우선 과제 선정:** 현재 모든 정보를 종합하여 ",
+      "completedAt": "2026-05-14T22:34:29.134Z"
+    },
+    {
+      "id": "20260514223429-nzi8",
+      "title": "**위험 요소 식별:** 만약 '검증 단계'에서 가설이 기각될 경우, 다음 대안 가설(Plan B)을 미리 준비하는 브레인스토밍 시간을 갖는다.",
+      "description": "자동 등록 (영숙 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "secretary"
+      ],
+      "createdAt": "2026-05-14T22:34:29.110Z",
+      "status": "done",
+      "sessionDir": "2026-05-14T22-31",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-05-14T22-31/_report.md\n- 영숙: 회사 목표, 각 에이전트의 개인 목표, 최근 의사결정, 메모리를 검토하여 현재 가장 가치 있는 단일 작업 1개를 결정하고, 이를 실행 계획으로 \n\nCEO 종합 요점: 📱 **메시지 요약 및 분석:**\n사용자는 현재 상황을 종합적으로 판단하여, 가장 시급하고 가치 있는 단 하나의 핵심 과제(Single Most Important Task)를 결정하고, 이를 실행할 구체적인 계획(Action Plan)을 수립해 줄 것을 요청하고 있습니다.\n\n**핵심 목표:**\n1.  **최우선 과제 선정:** 현재 모든 정보를 종합하여 ",
+      "completedAt": "2026-05-14T22:34:29.145Z"
+    }
+  ]
+}
