@@ -8137,3 +8137,9 @@ _세션: 2026-05-27T15-10_
 - PayPal 매출 분석을 위해 Client ID와 Secret을 입력해야 한다.
 - Client ID 및 Secret은 PayPal Developer Dashboard에서 복사하여 입력한다.
 _세션: 2026-06-06T09-47_
+
+## [2026-06-06] git push
+- LLM 호출 실패 시, 모델 오케스트레이션 모달에서 더 작은 모델을 선택한다.
+- Ollama/LM Studio 서버가 항상 실행되도록 관리한다.
+- Context Length 초과를 방지하기 위해 모델 로드 시 길이를 고려한다.
+_세션: 2026-06-06T09-48_
