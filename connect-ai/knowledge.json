@@ -655,5 +655,21 @@
     "category": "business",
     "source": "agent",
     "verified": true
+  },
+  {
+    "id": "n17826041555252918",
+    "text": "[운영 2026-06-27 사이클#88] 영숙: 지난 사이클#80~95의 수익 모델 조사 로그와 최근 20개 커밋 데이터를 기반으로 '검' 영상 관련 AI",
+    "tags": [
+      "사이클",
+      "2026",
+      "운영",
+      "영숙",
+      "지난",
+      "수익"
+    ],
+    "ts": 1782604155527,
+    "category": "marketing",
+    "source": "agent",
+    "verified": true
   }
 ]
