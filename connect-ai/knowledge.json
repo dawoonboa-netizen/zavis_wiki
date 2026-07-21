@@ -3151,5 +3151,21 @@
     "category": "marketing",
     "source": "agent",
     "verified": true
+  },
+  {
+    "id": "n178467551889663",
+    "text": "[운영 2026-07-22 사이클#307] 영숙: 현빈 (Business): 지난 사이클의 '수익 모델 3가지' 조사 결과를 바탕으로 `/Volumes/COR (/Volumes/CORSAIR/자비스/오늘업무_2026-07-22/오늘브)",
+    "tags": [
+      "2026",
+      "volumes",
+      "307",
+      "운영",
+      "사이클",
+      "영숙"
+    ],
+    "ts": 1784675518897,
+    "category": "business",
+    "source": "agent",
+    "verified": true
   }
 ]
