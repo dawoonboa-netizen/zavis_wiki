@@ -3711,5 +3711,21 @@
     "category": "marketing",
     "source": "agent",
     "verified": true
+  },
+  {
+    "id": "n17853719166127853",
+    "text": "[운영 2026-07-30 사이클#357] 영숙: 지난 수익 모델 조사 결과를 바탕으로 '인생사연 자동 큐레이션 플랫폼' 기능 명세(MSD) 작성 및 로컬 A (/Volumes/CORSAIR/자비스/오늘업무_2026-07-30/오늘브) / 영숙: 구독/조회 정체 원인 분석 (제목 클릭률, 시그니처 영상 패턴) 및 경쟁 채널 상위 3 개 콘텐츠 키워드 추 (/Volumes/CORSAIR/자비스/오늘업무_2026-07-30/오늘브)",
+    "tags": [
+      "2026",
+      "영숙",
+      "volumes",
+      "corsair",
+      "자비스",
+      "오늘업무"
+    ],
+    "ts": 1785371916612,
+    "category": "marketing",
+    "source": "agent",
+    "verified": true
   }
 ]
