@@ -3855,5 +3855,21 @@
     "category": "business",
     "source": "agent",
     "verified": true
+  },
+  {
+    "id": "n17857669214333812",
+    "text": "[운영 2026-08-03 사이클#377] 현빈: 내 서비스에 맞는 수익 모델 3가지 조사·정리 / 코다리: 최근 커밋 분석 후 다음 개발 목표 정의 및 일정 수립 (/Volumes/CORSAIR/자비스/오늘업무_2026-08-03/SFT)",
+    "tags": [
+      "2026",
+      "377",
+      "운영",
+      "사이클",
+      "현빈",
+      "서비스에"
+    ],
+    "ts": 1785766921434,
+    "category": "business",
+    "source": "agent",
+    "verified": true
   }
 ]
