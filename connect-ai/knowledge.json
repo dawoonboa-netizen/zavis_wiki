@@ -4623,5 +4623,21 @@
     "category": "business",
     "source": "agent",
     "verified": true
+  },
+  {
+    "id": "n17913900808928531",
+    "text": "[운영 2026-10-08 사이클#481] 영숙: 아이디어 제안 (/Volumes/CORSAIR/자비스/오늘브리핑.md) / 영숙: 서비스 기능 개발 (/Volumes/CORSAIR/자비스/오늘브리핑.md) / 영숙: 현빈: 수익 모델 조사 (/Volumes/CORSAIR/자비스/오늘브리핑.md) / 영숙: 현빈: 기획안 작성 (/Volumes/CORSAIR/자비스/오늘브리핑.md) / 영숙: 영숙: 수익 모델 조사 (/Volumes/CORSAIR/자비스/오늘브리핑.md) / 영숙: 영숙: 서비스 기능 개발 (/Volumes/CORSAIR/자비스/오늘브리핑.md)",
+    "tags": [
+      "영숙",
+      "volumes",
+      "corsair",
+      "자비스",
+      "오늘브리핑",
+      "서비스"
+    ],
+    "ts": 1791390080893,
+    "category": "business",
+    "source": "agent",
+    "verified": true
   }
 ]
