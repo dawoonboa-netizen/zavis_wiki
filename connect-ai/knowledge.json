@@ -4815,5 +4815,21 @@
     "category": "marketing",
     "source": "agent",
     "verified": true
+  },
+  {
+    "id": "n17920394241968240",
+    "text": "[운영 2026-10-15 사이클#503] 영숙: 아이디어 제안 (/Volumes/CORSAIR/자비스/오늘업무_2026-10-15/오늘브) / 영숙: 자산 분석 (/Volumes/CORSAIR/자비스/오늘업무_2026-10-15/오늘브) / 영숙: 마케팅 (/Volumes/CORSAIR/자비스/오늘업무_2026-10-15/오늘브) / 영숙: 새 서비스 아이디어 (/Volumes/CORSAIR/자비스/오늘업무_2026-10-15/오늘브) / 영숙: 매출 및 경쟁 분석 (/Volumes/CORSAIR/자비스/오늘업무_2026-10-15/오늘브)",
+    "tags": [
+      "2026",
+      "영숙",
+      "volumes",
+      "corsair",
+      "자비스",
+      "오늘업무"
+    ],
+    "ts": 1792039424198,
+    "category": "business",
+    "source": "agent",
+    "verified": true
   }
 ]
