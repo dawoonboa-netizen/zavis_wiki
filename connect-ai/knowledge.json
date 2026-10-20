@@ -4911,5 +4911,21 @@
     "category": "business",
     "source": "agent",
     "verified": true
+  },
+  {
+    "id": "n17925118349961091",
+    "text": "[운영 2026-10-21 사이클#513] 영숙: 자산 분석 / 영숙: Client ID/Secret 입력",
+    "tags": [
+      "영숙",
+      "513",
+      "2026",
+      "운영",
+      "사이클",
+      "자산"
+    ],
+    "ts": 1792511834996,
+    "category": "general",
+    "source": "agent",
+    "verified": true
   }
 ]
