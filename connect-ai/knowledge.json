@@ -4927,5 +4927,21 @@
     "category": "general",
     "source": "agent",
     "verified": true
+  },
+  {
+    "id": "n17928334485042157",
+    "text": "[운영 2026-10-24 사이클#517] 영숙: 영숙: 고객 데이터 분석 / 영숙: 영숙: 수익 모델 조사",
+    "tags": [
+      "영숙",
+      "517",
+      "2026",
+      "운영",
+      "사이클",
+      "고객"
+    ],
+    "ts": 1792833448505,
+    "category": "business",
+    "source": "agent",
+    "verified": true
   }
 ]
