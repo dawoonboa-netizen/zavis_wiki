@@ -5151,5 +5151,21 @@
     "category": "marketing",
     "source": "agent",
     "verified": true
+  },
+  {
+    "id": "n17942950885713956",
+    "text": "[운영 2026-11-10 사이클#550] 영숙: 자산 분석 / 영숙: 마케팅 제안",
+    "tags": [
+      "영숙",
+      "550",
+      "2026",
+      "운영",
+      "사이클",
+      "자산"
+    ],
+    "ts": 1794295088571,
+    "category": "marketing",
+    "source": "agent",
+    "verified": true
   }
 ]
